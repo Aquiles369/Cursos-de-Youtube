@@ -7,8 +7,8 @@
 
 
 - :file_folder:Varios Cursos en Youtube:
-- https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg
-+["CIBERSEGURIDAD TODOS LOS PDF"](README.md)<br>
+- https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg<br>
++["Curso_bash_script"](Curso_bash_script)<br>
 
 <br>
 <p align="center">
