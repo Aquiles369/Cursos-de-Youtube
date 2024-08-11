@@ -1,0 +1,37 @@
+¿Necesito algún conocimiento previo, para hacer este curso?
+#Si necesitas conocimientos basicos del manejo de GNU/LINUX "comandos basicos, saber moverse entre directorios, crear ficheros, etc" de igual modo podes seguir con el curso.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+¿Qué es bash y dónde se utiliza bash?
+
+¿Qué es bash
+#Su funcionamiento se basa en ejecutar una a una las instrucciones que introduce el usuario o que forman parte de un script, y a continuación devolver unos resultados.
+#Es un interprete de comandos,es decir es un lenguaje interpretado  linea por linea , compatible con POSIX es un estandar, archivos por "defaul .bashrc y .bash_profile", 
+#Resumen historia de bash, KEN THOMPSON en lo laboratorios BELL, desarrollo los primeros shell para Unix, llamado "V6 SHELL en 1971"el programa tenia el nombre de "SH", posteriormente en 1977 STEPHEN R.BOURN SHELL, primer shell disponible en el sistema operativo UNIX, quien se convirtio en un estandar durante un tiempo 1989, primer lanzamiento bash, BOURNE AGAIN SHELL desarrolado por BRIAN FOX, para el proyecto GNU, DE FREE SOFTAWARE FOUNDATION HACE RELACIOn con el nombre shell original "SH" es una version mejorada,juego de palabras BORN AGAIN es decir "nacido de nuevo"
+
+dónde se utiliza bash?
+#Bash está disponible en casi todos los tipos de sistemas operativos basados en Unix y no requiere una instalación independiente.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Para qué sirve, qué se puede hacer con bash?
+#Sirve para automatizar cualquier tarea, en palabras simples, "se puede concatenar con otros comandos de GNU/linux".
+#Automatización de tareas rutinarias. Como realizar copias de seguridad de archivos, actualizar sistemas o limpiar directorios.
+Gestión de sistemas. ...
+Despliegue de aplicaciones. ...
+Procesamiento de datos. ...
+Automatización de tareas de desarrollo.
+
+#automatizar tareas repetitivas como puede ser en Creacion de carpetes , diferentes tipos de monitoreos, automatizar la ejecucion de diferentes herramientas, manejos de ficheros, etc
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Es difícil aprender bash scripting?
+#ABSOLUTAMENTE no, solo es cuestion de praticar como todo en la vida y lo mas importarte tener las bases Solidas.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+¿Con este curso que nivel, alcanzare en bash?
+#Con este curso tendras un nivel "decente digamos bueno" , para poder ir apliendo tus conocimientos en bash, contando con las bases solidas.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Material de Estudio De Estudio disponible en mi repo de Git hub Git hub Aquiles369/Cursos-de Youtube/Curso_bash_script"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
