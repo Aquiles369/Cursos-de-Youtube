@@ -1,0 +1,53 @@
+			MODULO 2
+
+
+¿Qué es una variable?
+#Una variables actua como almacenamiento temporal para un dato, puede ser tanto numeros , como texto , simbolos , listados, etc. Ejemplo mas sencillo, imaginemos que vamos de compra un Supermercado comprados varios productos de cuales los almacenamos en una "Bolsa" y varias bolsa su mejor clasficacion y manejo de lo mismos, para su posterior extraccion de esos productos "La bolsa" seria el almacenamiento y los productos son los datos que guardamos en ese almacenamientos, por ejemplo "Bolsa=Productos" , como bien mencionamos anteriormente los datos no tiene que ser unicamente un 1 dato sino pueden ser varios para eso se utiliza , lista para poder agrupar mas de 1 datos en una variables "Almacenamiento".
+
+
+
+¿Tipos de variables?
+
+#Existe varios tipos de Variables:
+
+----------------1.variables de entorno-------------------
+$PWD # 		directorio de trabajo actual		|
+$OLDPWD # 	directorio de trabajo anterior		|
+$PPID # 	identificador del proceso padre		|
+$HOSTNAME # 	nombre del ordenador			|
+$USER # 	nombre del usuario			|
+$HOME # 	directorio del usuario			|
+$PATH # 	rutas búsqueda de comandos		|
+$LANG # 	idioma para los mensajes		|
+$FUNCNAME # 	nombre función en ejecución		|
+$LINENO # 	número de línea actual (del script)	|
+$RANDOM # 	número aleatorio			|
+---------------------------------------------------------
+
+----------------2.variables especiales--------------------------------------
+$0 # 		nombre del script					   |
+${N} # 		parámetro N						   |
+$$ # 		identificador del proceso actual			   |
+$! # 		identificador del último proceso			   |
+$@ # 		todos los parámetros recibidos 				   |
+$# # 		número de parámetros recibidos 				   |
+$? # 		(0=normal, >0=error) # código de retorno del último comando|
+shift # 	$1=$2, $2=$3, ... ${N-1}=${N}				   |
+----------------------------------------------------------------------------
+
+
+¿Tener en cuenta, cuando se declara variable?
+
+1-Es importante que no haya espacios ni entre la variable y el signo igual, ni entre el signo igual y el valor que quieres asignar a tu variable.
+
+
+
+¿Ejercicios ejemplo?
+ 
+MIRAR VIDEO DE YOUTUBE.
+
+
+
+
+
+
