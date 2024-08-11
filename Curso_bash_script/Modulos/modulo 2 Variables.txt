@@ -22,17 +22,23 @@ $LANG # 	idioma para los mensajes		|
 $FUNCNAME # 	nombre función en ejecución		|
 $LINENO # 	número de línea actual (del script)	|
 $RANDOM # 	número aleatorio			|
----------------------------------------------------------
+$SECONDS        tiempo transcurrido en segundos scrypt  |
+$RANDOM         devuelve un número aleatorio ejecuta var|_________
+$PATH 		la ruta por defecto donde encontrar binarios, etc.|
+-------------------------------------------------------------------
 
 ----------------2.variables especiales--------------------------------------
-$0 # 		nombre del script					   |
-${N} # 		parámetro N						   |
+$0 # 		nombre del script					   |__
+$1 – $9         los primeros nueve argumentos que se pasan a un script en Bash|
+${N} # 		parámetro N						   |__|
 $$ # 		identificador del proceso actual			   |
 $! # 		identificador del último proceso			   |
 $@ # 		todos los parámetros recibidos 				   |
 $# # 		número de parámetros recibidos 				   |
 $? # 		(0=normal, >0=error) # código de retorno del último comando|
 shift # 	$1=$2, $2=$3, ... ${N-1}=${N}				   |
+$$              el ID del proceso del script				   |
+$SHELL 		que indica el shell que estás ejecutando		   |
 ----------------------------------------------------------------------------
 
 
