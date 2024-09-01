@@ -7,7 +7,7 @@
 
 
 - :file_folder:Varios Cursos en Youtube:
-+["Canal de Youtube"] https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg<br>
++["Canal de Youtube"](https://www.youtube.com/channel/UCZjm6YJkfQ6pnBZSnoWd0mg)<br>
 +["Curso_bash_script"](Curso_bash_script)<br>
 
 <br>
